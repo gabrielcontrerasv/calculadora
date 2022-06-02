@@ -11,7 +11,7 @@ function App() {
       <div className="calc">
       <div className="fullscreen">
       <div className="screenvalues"> 45</div>
-      <div className="screen"> </div>
+      <div className="screen"> 28 + 17</div>
       </div>
         <div className="group1">
           <button className="buttone" >AC</button>
